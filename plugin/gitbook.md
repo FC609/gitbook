@@ -27,11 +27,12 @@ gitbook -V
 ```
 
 - 升级脚手架
+
 ```
 gitbook update 
 ```
 
--帮助文档
+- 帮助文档
 
 ```
 gitbook help
