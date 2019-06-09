@@ -98,6 +98,25 @@ git remote show origin
 git remote rename [old_name] [new_name]
 git remote rm [remote_name]
 
+### 04-7 分支
+
+- 显示所有分支
+
+git branch
+
+- 创建及切换分支
+
+git checkout -b testing
+
+- 分支合并
+
+将hotfix分支合并到master（主分支）上，需要通过下面命令：
+
+```
+git checkout master
+git merge hotfix
+```
+
 ## 05. 懒人的福利
 
 个人认为： git会用就好了，作为一个俗不可耐的小兄弟，一些可视化的工具是我们最好的选择。
