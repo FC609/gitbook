@@ -77,3 +77,8 @@ Gitbook使用的语言
 - <https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/blob/master/doc/config.md>
 - <https://github.com/crifan/gitbook_template>
 - <https://www.cnblogs.com/zhangjk1993/p/5066771.html>
+
+
+> 感恩的心，感谢各位
+> jsliang的掘金： <https://juejin.im/post/5ce51e126fb9a07ed440d7d0>
+> jsliang的github： <https://liangjunrong.github.io/>

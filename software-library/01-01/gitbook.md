@@ -1,10 +1,5 @@
 # gitbook
 
-> 感恩的心，感谢这俩大佬
-> 大佬的gitbook地址 
-> - <http://www.chengweiyang.cn/gitbook/introduction/README.html>
-> - <http://www.lijiam.com/part2/gitbook/>
-
 
 > 使用gitBook 首先 是会markdown语法和node中npm下载包
 
@@ -95,3 +90,6 @@ gitbook build --log=debug
 ```
 gitbook builid --debug
 ```
+
+> 感恩的心，感谢大佬的探索
+> 大佬的gitbook：<http://www.lijiam.com/part2/gitbook/>
