@@ -14,6 +14,6 @@
   * [npm-包](./software-library/npm.md)
 * 心灵鸡汤
   * 毒鸡汤
-    * [01](./chicken-suop-library/poisonous-chicken-soup/01-20.md)
+    * [01](./chicken-suop-library/poisonous-chicken-soup/01.md)
   * 古人云
     * [诸葛亮](./chicken-suop-library/ancients-said/ZhuGeLiang.md)
