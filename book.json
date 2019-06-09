@@ -1,6 +1,32 @@
 {
- "title": "个人笔记",
- "author": "fc",
- "descirption": "记录一些个人比较感兴趣的小东西",
- "language" : "zh-hans"
+  "title": "个人笔记",
+  "author": "fc",
+  "descirption": "记录一些个人比较感兴趣的小东西",
+  "language": "zh-hans",
+  "plugins": [
+    "back-to-top-button",
+    "copy-code-button",
+    "theme-comscore",
+    "prism",
+    "-highlight",
+    "expandable-chapters",
+    "splitter",
+    "search-pro",
+    "-search",
+    "-lunr",
+    "-sharing"
+  ],
+  "pluginsConfig": {
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-solarizedlight.css"
+      ],
+      "lang": {
+        "flow": "typescript"
+      }
+    }
+  },
+  "styles": {
+    "website": "./@global/css/gitbook-configure.css"
+  }
 }

@@ -5,8 +5,9 @@
   * [gitignore](./config-library/gitignore.md)
   * [editorconfig](./config-library/editorconfig.md)
   * [npmrc](./config-library/npmrc.md)
-- 框架、插件
-  - gitbook
-    - [gitbook简介](./software-library/01-01/gitbook.md)
-    - [gitbook配置](./software-library/01-01/book-json.md)
-  - [npm-包](./software-library/npm.md)
+* 框架、插件
+  * gitbook
+    * [gitbook简介](./software-library/01-01/gitbook.md)
+    * [gitbook配置](./software-library/01-01/book-json.md)
+  * [npm-包](./software-library/npm.md)
+  
