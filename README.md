@@ -9,5 +9,7 @@
 |:---                 | :---       |
 | config-library       | 配置文件   |
 | software-library     | 软件仓库   |
-| @global              | 全局样式   |
+| frame-library        | 框架仓库   |
+| styles-library       | 样式仓库   |
 | chicken-soup-library | 心灵鸡汤   |
+| @global              | 全局样式   |
