@@ -71,14 +71,49 @@ Gitbook使用的语言
 - font-settings：字体设置（最上方的"A"符号）
 - livereload：为GitBook实时重新加载
 
+```JSON
+{
+  "title": "fc个人笔记",
+  "author": "fc",
+  "descirption": "记录一些个人比较感兴趣的小东西",
+  "language": "zh-hans",
+  "plugins": [
+    "back-to-top-button", // 返回顶部
+    "copy-code-button", // 复制按钮
+    "theme-comscore", // 主题
+    "prism",
+    "-highlight",
+    "expandable-chapters",
+    "splitter",
+    "search-pro",
+    "-search",
+    "-lunr",
+    "-sharing"
+  ],
+  "pluginsConfig": {
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-solarizedlight.css"
+      ],
+      "lang": {
+        "flow": "typescript"
+      }
+    }
+  },
+  "styles": {
+    "website": "./@global/css/gitbook-configure.css"
+  }
+}
+```
+
 > 更多插件链接
 
-- <https://github.com/zhangjikai/gitbook-use/blob/master/plugins.md>
-- <https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/blob/master/doc/config.md>
-- <https://github.com/crifan/gitbook_template>
-- <https://www.cnblogs.com/zhangjk1993/p/5066771.html>
+- https://github.com/zhangjikai/gitbook-use/blob/master/plugins.md
+- https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/blob/master/doc/config.md
+- https://github.com/crifan/gitbook_template
+- https://www.cnblogs.com/zhangjk1993/p/5066771.html
 
 
 > 感恩的心，感谢各位
-> jsliang的掘金： <https://juejin.im/post/5ce51e126fb9a07ed440d7d0>
-> jsliang的github： <https://liangjunrong.github.io/>
+> jsliang的掘金： https://juejin.im/post/5ce51e126fb9a07ed440d7d0
+> jsliang的github： https://liangjunrong.github.io/
