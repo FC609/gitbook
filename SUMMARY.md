@@ -9,8 +9,10 @@
   * [npmrc](./config-library/npmrc.md)
 * [神奇的小工具](./software-library/README.md)
   * gitbook
-    * [gitbook简介](./software-library/01-01/gitbook.md)
-    * [gitbook配置](./software-library/01-01/book-json.md)
+    * [gitbook简介](./software-library/01-gitbook/gitbook.md)
+    * [gitbook配置](./software-library/01-gitbook/book-json.md)
+  * nvm
+    * [nvm简介](./software-library/02-nvm/nvm.md)
   * [npm-包](./software-library/npm.md)
 * [框架](./frame-library/README.md)
   * angular
