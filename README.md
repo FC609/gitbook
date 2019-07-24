@@ -11,5 +11,7 @@
 | software-library     | 软件仓库   |
 | frame-library        | 框架仓库   |
 | styles-library       | 样式仓库   |
+| mobile-library       | 移动端     |
+| reg-library          | 正则       |
 | chicken-soup-library | 心灵鸡汤   |
 | @global              | 全局样式   |
